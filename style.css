@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+  color: rgb(118, 37, 37);
+}
+#container {
+  width: 500px;
+  height: 375px;
+  margin: 0 auto;
+  border: 10px black solid;
+  box-shadow: 0 15px 20px;
+  border-radius: 8px;
+}
+#videoElement {
+  width: 480px;
+  height: 355px;
+  border-radius: 8px;
+  background-color: rgb(29, 27, 27);
+}
+a {
+  padding: 10px 20px;
+  background-color: grey;
+  color: white;
+  border-radius: 3px;
+  margin: 0 auto;
+}
